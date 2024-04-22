@@ -5,7 +5,7 @@
   }
   
   body{
-    font-family: "Nunito",sans-serif;
+    font-family: 'Times New Roman', serif;
     background: #f8f8f8;
   }
   
@@ -19,7 +19,7 @@
     background: #e7e7e7;
     border: none;
     border-radius: 1px;
-    font-family: "Nunito",sans-serif;
+    font-family: 'Times New Roman', serif;
     font-weight:bold;
     font-size: 20px;
   }
@@ -31,7 +31,7 @@
     background: #e7e7e7;
     border: none;
     border-radius: 1px;
-    font-family: "Nunito",sans-serif;
+    font-family: 'Times New Roman', serif;
     font-weight:bold;
     font-size: 20px;
   }
